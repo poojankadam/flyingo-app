@@ -1,0 +1,9 @@
+.bgcontact{
+    
+    background : url('./Components/Pictures/flight1.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow:  5px 50px 50px 5px rgb(104, 11, 48) inset;
+   
+  }

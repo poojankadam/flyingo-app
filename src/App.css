@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Kalam&family=Varela+Round&family=Ysabeau+SC&display=swap');
+
+.font1{
+    font-family: 'Ysabeau SC', sans-serif;
+}
+.font2{
+    font-family: 'Cinzel', serif;
+}
+.font3{
+    font-family: 'Kalam', cursive;
+}
+.font4{
+    font-family: 'Varela Round', sans-serif;
+}
+
+.textcolor{
+    color: #7e1b4e;
+}
+.bgcolor{
+    background-color: #7e1b4e;
+}
+.bgcontact{
+    
+    background : url('./Components/Pictures/flyingo_img.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow:  5px 50px 50px 5px rgb(180, 183, 212) inset;
+    
+  }
+  .bgfdback{
+    background: url('./Components//Pictures/flight2.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow:  5px 50px 50px 5px skyblue inset;
+  }

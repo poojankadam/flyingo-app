@@ -1,0 +1,14 @@
+.bg{
+    background: url('../Pictures/1.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow:  5px 0px 50px 5px black inset;
+}
+
+.text:hover{
+    color: #7e1b4e;
+    background-color: white;
+    text-shadow: 1px 1px 3px rgb(51, 51, 51);
+    transition: 0.3s;
+}
